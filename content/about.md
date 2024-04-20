@@ -21,7 +21,7 @@ UseHugoToc: true
 cover:
     image: "images/pinksunset.jpg" # image path/url
     alt: "Beautiful sunset at Flinders, Vic." # alt text
-    caption: "<text>" # display caption under cover
+    caption: "Sunset at Flinders, Vic." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
