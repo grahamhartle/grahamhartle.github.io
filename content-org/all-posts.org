@@ -7,3 +7,11 @@
 :EXPORT_DATE: 2025-07-27
 :END:
 This is the post body.
+
+* DONE This is another post
+:PROPERTIES:
+:EXPORT_FILE_NAME: another-post
+:EXPORT_DATE: 2025-07-27
+:END:
+This is another post.
+I'm just trying to get things working.
