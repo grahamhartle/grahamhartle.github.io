@@ -1,0 +1,9 @@
+baseURL = 'https://theoldecodger.com/'
+languageCode = 'en-us'
+title = 'The Old Codger'
+theme = 'hugo-PaperMod'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+

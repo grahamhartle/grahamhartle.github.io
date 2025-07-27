@@ -1,0 +1,9 @@
+#+hugo_base_dir: ~/sites/theoldecodger
+#+title: All Posts
+
+* DONE My First Post
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_DATE: 2025-07-27
+:END:
+This is the post body.
